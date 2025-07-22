@@ -42,6 +42,13 @@
     "allowOffline": true
   },
   {
+    "id": "8236efca3767139f",
+    "username": "6285726578781",
+    "password": "radreel",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
